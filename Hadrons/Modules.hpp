@@ -51,6 +51,7 @@
 #include <Hadrons/Modules/MSource/Z2.hpp>
 #include <Hadrons/Modules/MSource/Wall.hpp>
 #include <Hadrons/Modules/MSource/SeqGamma.hpp>
+#include <Hadrons/Modules/MSource/MomentumPhase.hpp>
 #include <Hadrons/Modules/MSource/Point.hpp>
 #include <Hadrons/Modules/MSource/Momentum.hpp>
 #include <Hadrons/Modules/MContraction/WeakMesonDecayKl2.hpp>
@@ -60,6 +61,7 @@
 #include <Hadrons/Modules/MContraction/WeakEye3pt.hpp>
 #include <Hadrons/Modules/MContraction/WeakNonEye3pt.hpp>
 #include <Hadrons/Modules/MContraction/Baryon.hpp>
+#include <Hadrons/Modules/MContraction/Baryon_old.hpp>
 #include <Hadrons/Modules/MContraction/Meson.hpp>
 #include <Hadrons/Modules/MContraction/A2ALoop.hpp>
 #include <Hadrons/Modules/MContraction/Gamma3pt.hpp>

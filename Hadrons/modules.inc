@@ -49,6 +49,7 @@ modules_cc =\
   Modules/MSource/SeqAslash.cc \
   Modules/MSource/Z2.cc \
   Modules/MSource/Point.cc \
+  Modules/MSource/MomentumPhase.cc \
   Modules/MSource/SeqGamma.cc \
   Modules/MSource/Wall.cc \
   Modules/MSource/SeqConserved.cc \
@@ -134,6 +135,7 @@ modules_hpp =\
   Modules/MSource/Z2.hpp \
   Modules/MSource/Wall.hpp \
   Modules/MSource/SeqGamma.hpp \
+  Modules/MSource/MomentumPhase.hpp \
   Modules/MSource/Point.hpp \
   Modules/MSource/Momentum.hpp \
   Modules/MContraction/WeakMesonDecayKl2.hpp \
@@ -143,6 +145,7 @@ modules_hpp =\
   Modules/MContraction/WeakEye3pt.hpp \
   Modules/MContraction/WeakNonEye3pt.hpp \
   Modules/MContraction/Baryon.hpp \
+  Modules/MContraction/Baryon_old.hpp \
   Modules/MContraction/Meson.hpp \
   Modules/MContraction/A2ALoop.hpp \
   Modules/MContraction/Gamma3pt.hpp \
