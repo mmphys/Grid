@@ -44,7 +44,6 @@ modules_cc =\
   Modules/MDistil/DistilVectors.cc \
   Modules/MDistil/BContraction.cc \
   Modules/MDistil/Baryon2pt.cc \
-  Modules/MDistil/BC2.cc \
   Modules/MSource/Momentum.cc \
   Modules/MSource/SeqAslash.cc \
   Modules/MSource/Z2.cc \
@@ -57,7 +56,6 @@ modules_cc =\
   Modules/MContraction/Meson.cc \
   Modules/MContraction/A2AAslashField.cc \
   Modules/MContraction/SelfContract.cc \
-  Modules/MContraction/Baryon2.cc \
   Modules/MContraction/Baryon.cc \
   Modules/MContraction/Nucleon.cc \
   Modules/MContraction/WeakNonEye3pt.cc \
@@ -123,7 +121,6 @@ modules_hpp =\
   Modules/MUtilities/PrecisionCast.hpp \
   Modules/MDistil/Noises.hpp \
   Modules/MDistil/Perambulator.hpp \
-  Modules/MDistil/BC2.hpp \
   Modules/MDistil/g5_multiply.hpp \
   Modules/MDistil/PerambFromSolve.hpp \
   Modules/MDistil/Baryon2pt.hpp \
@@ -141,7 +138,6 @@ modules_hpp =\
   Modules/MContraction/WeakMesonDecayKl2.hpp \
   Modules/MContraction/Nucleon.hpp \
   Modules/MContraction/A2AAslashField.hpp \
-  Modules/MContraction/Baryon2.hpp \
   Modules/MContraction/WeakEye3pt.hpp \
   Modules/MContraction/WeakNonEye3pt.hpp \
   Modules/MContraction/Baryon.hpp \
